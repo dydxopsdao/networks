@@ -3,4 +3,4 @@ Welcome to the Mainnet for dYdX v4! This repo will be used for distributing bina
 
 ## Useful Links
 - [dYdX v4 documentations](https://dydx-v4-docs.vercel.app/)
-- [dYdX v4 schedule](https://v4-mainnet-docs.vercel.app/mainnet/schedule)
+- [dYdX v4 schedule](https://dydx-v4-docs.vercel.app//mainnet/schedule)
