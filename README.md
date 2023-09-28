@@ -2,5 +2,5 @@
 Welcome to the Mainnet for dYdX v4! This repo will be used for distributing binaries, coordinating genesis, etc.
 
 ## Useful Links
-- [Testnet documentations](https://v4-teacher.vercel.app/)
-- [Testnet schedule](https://v4-teacher.vercel.app/general_overview/schedule)
+- [dYdX v4 documentations](https://dydx-v4-docs.vercel.app/)
+- [dYdX v4 schedule](https://v4-mainnet-docs.vercel.app/mainnet/schedule)
