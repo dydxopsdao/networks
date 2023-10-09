@@ -11,9 +11,9 @@
             "details": "Professional PoS validator. Join our community of delegators Telegram: https://t.me/kingnodes Twitter: https://twitter.com/kingnodes"
           },
           "commission": {
-            "rate": "1.000000000000000000",
-            "max_rate": "1.000000000000000000",
-            "max_change_rate": "0.010000000000000000"
+            "rate": "0.050000000000000000",
+            "max_rate": "0.200000000000000000",
+            "max_change_rate": "0.100000000000000000"
           },
           "min_self_delegation": "1",
           "delegator_address": "dydx1j4ljutnh66r55a29jydgca7pfmhd40e3kpwlky",
@@ -57,6 +57,6 @@
       "tip": null
     },
     "signatures": [
-      "rC+F6itXIWXsYYARt09e2LGVDc3PtKT7Vrza6sv0B+4iVBJ2mZTTlyhMq6YbJXvKkBYmKa2GPDrHeue/PMQhSA=="
+      "Ar44ahWjF3szso99N2n9TpYkcxwd7atIlWH+gPAXVs5f9EyTBjV7LdPL1vuJalJcat5qZV9DvD/DOGlptspR1A=="
     ]
   }
