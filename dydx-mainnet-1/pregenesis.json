@@ -2234,7 +2234,7 @@
           "denom": "adydx",
           "start_time": "2021-08-03T15:00:00Z",
           "end_time": "2026-08-03T15:00:00Z"
-},
+        },
         {
           "vester_account": "rewards_vester",
           "treasury_account": "rewards_treasury",
