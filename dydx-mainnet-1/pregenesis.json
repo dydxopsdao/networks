@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2023-10-16T17:00:00Z",
+  "genesis_time": "2023-10-26T17:00:00Z",
   "chain_id": "dydx-mainnet-1",
   "initial_height": "1",
   "consensus_params": {
@@ -586,8 +586,7 @@
         "durations": [
           "300s",
           "1800s"
-        ],
-        "clock_drift_grace_period_duration": "5s"
+        ]
       }
     },
     "bridge": {
@@ -949,7 +948,6 @@
         }
       ],
       "liquidations_config": {
-        "max_insurance_fund_quantums_for_deleveraging": 100000000000,
         "max_liquidation_fee_ppm": 15000,
         "position_block_limits": {
           "min_position_notional_liquidated": 1000,
@@ -1011,7 +1009,7 @@
             "usd_tnc_required": "10000000000"
           },
           {
-            "limit": 200,
+            "limit": 1000,
             "usd_tnc_required": "100000000000"
           }
         ],
@@ -1137,7 +1135,7 @@
           "block_height": 6912000
         }
       ],
-      "num_messages": 1
+      "next_delayed_message_id": 1
     },
     "distribution": {
       "params": {
