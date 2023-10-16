@@ -62,7 +62,7 @@
           "multi": {
             "bitarray": {
               "extra_bits_stored": 4,
-              "elems": "MA=="
+              "elems": "UA=="
             },
             "mode_infos": [
               {
@@ -90,6 +90,6 @@
     "tip": null
   },
   "signatures": [
-    "CkDZr0ldM9Y4iajludRn9+DiuNytdJSIWOS2pp1Te8FeXCKlyDY4wc4GBcm/OEK94gXiUD2QETDZNm8tmVCzj1BYCkA3eqIV6kbc0xvMGSkOG2Ms4q9zm14fqditTP5PpnP9DyJMiMcEtGu2usMNUxfbRr8ADD5DTHwLMpGEpoAUFeva"
+    "CkC8ixqGDP0ssGw6QpugYwfglqV/RsfpB8n97c5/KgI4u03SEOTlIYYV6jmwe/69h9z8jEaNoTU3Fx0sWD3mJDB+CkAR0qI2dN/HHC5H5SnL2vgbLaI5EQKCQZ3oqe7bEdWMTmRzd7awafB4FCavISeYVOzEDVPmWnjw34BAoJzs629n"
   ]
 }
