@@ -28,7 +28,7 @@
         }
       }
     ],
-    "memo": "Informal Systems online!",
+    "memo": "c68283b50d253b38d884b0c5e27bc003f887205f@192.168.2.19:26656",
     "timeout_height": "0",
     "extension_options": [],
     "non_critical_extension_options": []
@@ -90,6 +90,6 @@
     "tip": null
   },
   "signatures": [
-    "CkC8ixqGDP0ssGw6QpugYwfglqV/RsfpB8n97c5/KgI4u03SEOTlIYYV6jmwe/69h9z8jEaNoTU3Fx0sWD3mJDB+CkAR0qI2dN/HHC5H5SnL2vgbLaI5EQKCQZ3oqe7bEdWMTmRzd7awafB4FCavISeYVOzEDVPmWnjw34BAoJzs629n"
+    "CkB4iN0c6Y//haPMqmX6GWHeLBos/TIv/eKbJQbVfuIVoGUwumJljCOPI6aEm3VC/8wTYvdaiU6+l3rwmQpLrDGaCkBbBeRHVF1+GrcTowKDkakO8OFu08QF1UdZP3F4pCj9gR8lICpt90F5wbKlPJodaxqoZtGju5L68KHVnclIvwJL"
   ]
 }
