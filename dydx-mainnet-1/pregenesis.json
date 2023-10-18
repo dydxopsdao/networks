@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2023-10-12T17:00:00Z",
+  "genesis_time": "2023-10-26T17:00:00Z",
   "chain_id": "dydx-mainnet-1",
   "initial_height": "1",
   "consensus_params": {
@@ -33,8 +33,7 @@
           "denom_exponent": "-6",
           "has_market": false,
           "market_id": 0,
-          "atomic_resolution": -6,
-          "long_interest": 0
+          "atomic_resolution": -6
         }
       ]
     },
@@ -78,160 +77,188 @@
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "4",
-          "address": "dydx16pj5gljqnqs0ajxakccfjhu05yczp9870tkh0z",
+          "address": "dydx168la65zj2868vqxyd3zrvaz3vhm85430dxy4q2",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "5",
-          "address": "dydx199fjq4rnfvz24cktl8cervx8h8e90ruk5644xz",
+          "address": "dydx16pj5gljqnqs0ajxakccfjhu05yczp9870tkh0z",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "6",
-          "address": "dydx1d9e68e7glce5pehh8qk0gcx9l06tjeh0kr5eg7",
+          "address": "dydx199fjq4rnfvz24cktl8cervx8h8e90ruk5644xz",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "7",
-          "address": "dydx1dm25afltds6v8te6m2lt6p0t3m4ygah32qhgtz",
+          "address": "dydx1a9lm6t9qalz53jrp0q6p50q2cxeqnwshse78q6",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "8",
-          "address": "dydx1et3h08wt6y9h0zjkp6jxpr42hm58avcd9mcppt",
+          "address": "dydx1d9e68e7glce5pehh8qk0gcx9l06tjeh0kr5eg7",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "9",
-          "address": "dydx1gffkd68xcnfpzcsplf0fsuetxkysunudlrneyl",
+          "address": "dydx1dm25afltds6v8te6m2lt6p0t3m4ygah32qhgtz",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "10",
-          "address": "dydx1j4ljutnh66r55a29jydgca7pfmhd40e3kpwlky",
+          "address": "dydx1et3h08wt6y9h0zjkp6jxpr42hm58avcd9mcppt",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "11",
-          "address": "dydx1jvct2ck9hptwyzrr0umfvwxed7n9nhhj2sldxc",
+          "address": "dydx1fs0t34g628xdqc8alfefnadq2x3qawt8de3dka",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "12",
-          "address": "dydx1kmt4qun5wj6qays8hpkp3ea2anvq3m70slllnw",
+          "address": "dydx1gffkd68xcnfpzcsplf0fsuetxkysunudlrneyl",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "13",
-          "address": "dydx1ml44cenapnawcn4xy3w36jce0rg78dm8cv6j2z",
+          "address": "dydx1j4ljutnh66r55a29jydgca7pfmhd40e3kpwlky",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "14",
-          "address": "dydx1mwhwf9rqh64ktr8t8xnz37nhg7vvy42ea2vy9g",
+          "address": "dydx1jvct2ck9hptwyzrr0umfvwxed7n9nhhj2sldxc",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "15",
-          "address": "dydx1n56zk7kmv40g5zrz5psx7yysa0gk86mfhk7d8h",
+          "address": "dydx1kmt4qun5wj6qays8hpkp3ea2anvq3m70slllnw",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "16",
-          "address": "dydx1ql40pjftdwl6qtmgk0fn0r02spvss96ekrjj63",
+          "address": "dydx1ml44cenapnawcn4xy3w36jce0rg78dm8cv6j2z",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "17",
-          "address": "dydx1s7zqmy708qhy4m7j3vrmydj2d0zr4wdfqznqt7",
+          "address": "dydx1mwhwf9rqh64ktr8t8xnz37nhg7vvy42ea2vy9g",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "18",
-          "address": "dydx1t7dum0wcdk9c0ly6fhd5mxcavg6plhw7wgqgwl",
+          "address": "dydx1n56zk7kmv40g5zrz5psx7yysa0gk86mfhk7d8h",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "19",
-          "address": "dydx1thl5syhmscgnj7whdyrydw3w6vy80044mlmz2n",
+          "address": "dydx1ql40pjftdwl6qtmgk0fn0r02spvss96ekrjj63",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "20",
-          "address": "dydx1vl5ty47uwpfv4mcutwv4zam09mvvvdgy2m9e59",
+          "address": "dydx1s7zqmy708qhy4m7j3vrmydj2d0zr4wdfqznqt7",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "21",
-          "address": "dydx1x20lytyf6zkcrv5edpkfkn8sz578qg5suyy80q",
+          "address": "dydx1t7dum0wcdk9c0ly6fhd5mxcavg6plhw7wgqgwl",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "22",
-          "address": "dydx1xwk95hxuude0zz4syvymlkrhjmjkqga79cvcpj",
+          "address": "dydx1thl5syhmscgnj7whdyrydw3w6vy80044mlmz2n",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "23",
-          "address": "dydx1y29mkku4zqz8phrxc8zgu7jfnw504leqgs65fe",
+          "address": "dydx1vl5ty47uwpfv4mcutwv4zam09mvvvdgy2m9e59",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "24",
-          "address": "dydx1y66c5c7zpcqxqgqec9ttutuwu60qkzav22h3ue",
+          "address": "dydx1x20lytyf6zkcrv5edpkfkn8sz578qg5suyy80q",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "25",
-          "address": "dydx1z0sjs7vr8s7gy7je3dzyn8hngdkdd9g305mzns",
+          "address": "dydx1xwk95hxuude0zz4syvymlkrhjmjkqga79cvcpj",
           "pub_key": null,
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "26",
+          "address": "dydx1y29mkku4zqz8phrxc8zgu7jfnw504leqgs65fe",
+          "pub_key": null,
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "account_number": "27",
+          "address": "dydx1y66c5c7zpcqxqgqec9ttutuwu60qkzav22h3ue",
+          "pub_key": null,
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "account_number": "28",
+          "address": "dydx1y6ncfxx8x9sqec97pehjw0k32slw63852paygz",
+          "pub_key": null,
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "account_number": "29",
+          "address": "dydx1z0sjs7vr8s7gy7je3dzyn8hngdkdd9g305mzns",
+          "pub_key": null,
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "account_number": "30",
           "address": "dydx1z29qzgp9pxt69462mk26gyc82k2sdxg2crwr9d",
           "pub_key": null,
           "sequence": "0"
@@ -249,7 +276,7 @@
           "coins": [
             {
               "denom": "adydx",
-              "amount": "999970100162606530000000000"
+              "amount": "999966923812606530000000000"
             }
           ]
         },
@@ -290,6 +317,15 @@
           ]
         },
         {
+          "address": "dydx168la65zj2868vqxyd3zrvaz3vhm85430dxy4q2",
+          "coins": [
+            {
+              "amount": "101000000000000000000",
+              "denom": "adydx"
+            }
+          ]
+        },
+        {
           "address": "dydx16pj5gljqnqs0ajxakccfjhu05yczp9870tkh0z",
           "coins": [
             {
@@ -303,6 +339,15 @@
           "coins": [
             {
               "amount": "3007034560000000000000",
+              "denom": "adydx"
+            }
+          ]
+        },
+        {
+          "address": "dydx1a9lm6t9qalz53jrp0q6p50q2cxeqnwshse78q6",
+          "coins": [
+            {
+              "amount": "1000000000000000000000",
               "denom": "adydx"
             }
           ]
@@ -330,6 +375,15 @@
           "coins": [
             {
               "amount": "1050000000000000000000",
+              "denom": "adydx"
+            }
+          ]
+        },
+        {
+          "address": "dydx1fs0t34g628xdqc8alfefnadq2x3qawt8de3dka",
+          "coins": [
+            {
+              "amount": "1000000000000000000000",
               "denom": "adydx"
             }
           ]
@@ -473,7 +527,16 @@
           "address": "dydx1y66c5c7zpcqxqgqec9ttutuwu60qkzav22h3ue",
           "coins": [
             {
-              "amount": "20000000000000000000",
+              "amount": "22000000000000000000",
+              "denom": "adydx"
+            }
+          ]
+        },
+        {
+          "address": "dydx1y6ncfxx8x9sqec97pehjw0k32slw63852paygz",
+          "coins": [
+            {
+              "amount": "1073350000000000000000",
               "denom": "adydx"
             }
           ]
@@ -523,8 +586,7 @@
         "durations": [
           "300s",
           "1800s"
-        ],
-        "clock_drift_grace_period_duration": "5s"
+        ]
       }
     },
     "bridge": {
@@ -544,8 +606,8 @@
         "delay_blocks": 86400
       },
       "acknowledged_event_info": {
-        "next_id": 29,
-        "eth_block_height": 18277062
+        "next_id": 35,
+        "eth_block_height": 18332102
       }
     },
     "capability": {
@@ -556,7 +618,7 @@
       "clob_pairs": [
         {
           "id": 0,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 0
           },
@@ -566,7 +628,7 @@
         },
         {
           "id": 1,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 1
           },
@@ -576,7 +638,7 @@
         },
         {
           "id": 2,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 2
           },
@@ -586,7 +648,7 @@
         },
         {
           "id": 3,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 3
           },
@@ -596,7 +658,7 @@
         },
         {
           "id": 4,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 4
           },
@@ -606,7 +668,7 @@
         },
         {
           "id": 5,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 5
           },
@@ -616,7 +678,7 @@
         },
         {
           "id": 6,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 6
           },
@@ -626,7 +688,7 @@
         },
         {
           "id": 7,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 7
           },
@@ -636,7 +698,7 @@
         },
         {
           "id": 8,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 8
           },
@@ -646,7 +708,7 @@
         },
         {
           "id": 9,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 9
           },
@@ -656,7 +718,7 @@
         },
         {
           "id": 10,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 10
           },
@@ -666,7 +728,7 @@
         },
         {
           "id": 11,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 11
           },
@@ -676,7 +738,7 @@
         },
         {
           "id": 12,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 12
           },
@@ -686,7 +748,7 @@
         },
         {
           "id": 13,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 13
           },
@@ -696,7 +758,7 @@
         },
         {
           "id": 14,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 14
           },
@@ -706,7 +768,7 @@
         },
         {
           "id": 15,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 15
           },
@@ -716,7 +778,7 @@
         },
         {
           "id": 16,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 16
           },
@@ -726,7 +788,7 @@
         },
         {
           "id": 17,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 17
           },
@@ -736,7 +798,7 @@
         },
         {
           "id": 18,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 18
           },
@@ -746,7 +808,7 @@
         },
         {
           "id": 19,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 19
           },
@@ -756,7 +818,7 @@
         },
         {
           "id": 20,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 20
           },
@@ -766,7 +828,7 @@
         },
         {
           "id": 21,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 21
           },
@@ -776,7 +838,7 @@
         },
         {
           "id": 22,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 22
           },
@@ -786,7 +848,7 @@
         },
         {
           "id": 23,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 23
           },
@@ -796,7 +858,7 @@
         },
         {
           "id": 24,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 24
           },
@@ -806,7 +868,7 @@
         },
         {
           "id": 25,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 25
           },
@@ -816,7 +878,7 @@
         },
         {
           "id": 26,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 26
           },
@@ -826,7 +888,7 @@
         },
         {
           "id": 27,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 27
           },
@@ -836,7 +898,7 @@
         },
         {
           "id": 28,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 28
           },
@@ -846,7 +908,7 @@
         },
         {
           "id": 29,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 29
           },
@@ -856,7 +918,7 @@
         },
         {
           "id": 30,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 30
           },
@@ -866,7 +928,7 @@
         },
         {
           "id": 31,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 31
           },
@@ -876,7 +938,7 @@
         },
         {
           "id": 32,
-          "status": "STATUS_ACTIVE",
+          "status": "STATUS_INITIALIZING",
           "perpetual_clob_metadata": {
             "perpetual_id": 32
           },
@@ -886,7 +948,6 @@
         }
       ],
       "liquidations_config": {
-        "max_insurance_fund_quantums_for_deleveraging": 100000000000,
         "max_liquidation_fee_ppm": 15000,
         "position_block_limits": {
           "min_position_notional_liquidated": 1000,
@@ -948,7 +1009,7 @@
             "usd_tnc_required": "10000000000"
           },
           {
-            "limit": 200,
+            "limit": 1000,
             "usd_tnc_required": "100000000000"
           }
         ],
@@ -1074,7 +1135,7 @@
           "block_height": 6912000
         }
       ],
-      "num_messages": 1
+      "next_delayed_message_id": 1
     },
     "distribution": {
       "params": {
@@ -1636,7 +1697,7 @@
           "initial_margin_ppm": 1000000,
           "maintenance_fraction_ppm": 200000,
           "base_position_notional": 1000000000,
-          "impact_notional": 500000000
+          "impact_notional": 2500000000
         }
       ],
       "params": {
@@ -2111,16 +2172,16 @@
         "treasury_account": "rewards_treasury",
         "denom": "adydx",
         "denom_exponent": -18,
-        "market_id": 11,
+        "market_id": 1000000,
         "fee_multiplier_ppm": 0
       }
     },
     "sending": {},
     "slashing": {
       "params": {
-        "signed_blocks_window": "12288",
+        "signed_blocks_window": "8192",
         "min_signed_per_window": "0.2",
-        "downtime_jail_duration": "3600s",
+        "downtime_jail_duration": "7200s",
         "slash_fraction_double_sign": "0.0",
         "slash_fraction_downtime": "0.0"
       },
