@@ -1,5 +1,5 @@
-# dYdX v4 Mainnet
-Welcome to the Mainnet for dYdX v4! This repo will be used for distributing binaries, coordinating genesis, etc.
+# dYdX Chain Mainnet
+Welcome to the Mainnet for dYdX Chain! This repo will be used for coordinating genesis.
 
 ## Useful Links
 - [dYdX Chain documentations](https://dydx-chain-docs.vercel.app/)
