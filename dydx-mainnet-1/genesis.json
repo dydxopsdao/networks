@@ -950,7 +950,7 @@
       "liquidations_config": {
         "max_liquidation_fee_ppm": 15000,
         "position_block_limits": {
-          "min_position_notional_liquidated": 1000,
+          "min_position_notional_liquidated": 1000000000,
           "max_position_portion_liquidated_ppm": 100000
         },
         "subaccount_block_limits": {
@@ -3264,7 +3264,7 @@
           "name": "Mid-Cap",
           "initial_margin_ppm": 100000,
           "maintenance_fraction_ppm": 500000,
-          "base_position_notional": 1000000000,
+          "base_position_notional": 250000000000,
           "impact_notional": 5000000000
         },
         {
@@ -3272,7 +3272,7 @@
           "name": "Long-Tail",
           "initial_margin_ppm": 200000,
           "maintenance_fraction_ppm": 500000,
-          "base_position_notional": 1000000000,
+          "base_position_notional": 100000000000,
           "impact_notional": 2500000000
         },
         {
@@ -3756,7 +3756,7 @@
         "treasury_account": "rewards_treasury",
         "denom": "adydx",
         "denom_exponent": -18,
-        "market_id": 1000000,
+        "market_id": 1000001,
         "fee_multiplier_ppm": 0
       }
     },
